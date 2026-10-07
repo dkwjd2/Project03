@@ -8,3 +8,4 @@ Project 03 version1 completed
 Project 03 version2 completed
 
 3rd Team Member: 김아정
+3rd Team Member: 20251037
